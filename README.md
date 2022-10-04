@@ -1,11 +1,5 @@
 # Tela Login
 Ola, Meu nome é Eduardo e esse foi mais um projeto para meu aprendizado de Font-End.
-
-<div align="center">
-  <a href="https://github.com/eduardofranco572">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardofranco572&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardofranco572&layout=compact&langs_count=7&theme=dark"/></a>
-</div>
 <br>
   Aqui são umas das linguagens de progamação que tenho conhecimento. e que utilizo para criar meus sites 💻
 <br>
