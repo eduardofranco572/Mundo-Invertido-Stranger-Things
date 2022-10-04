@@ -1,6 +1,15 @@
 # Tela Login
 Ola, Meu nome é Eduardo e esse foi mais um projeto para meu aprendizado de Font-End.
 <br>
+<br>
+ <div align="center">
+   Nesse projeto fiz acompanhando um curso da alura e algumas modificações minhas, um site de compartilhamentos de vídeos tipo o Youtube;
+   <h1>Video do Projeto:</h1>
+   
+   <br>
+  
+</div>
+<br>
   Aqui são umas das linguagens de progamação que tenho conhecimento. e que utilizo para criar meus sites 💻
 <br>
 <div align="center" style="display: inline_block"><br> 
