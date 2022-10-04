@@ -6,12 +6,23 @@ Ola, Meu nome é Eduardo e esse foi mais um projeto para meu aprendizado de Font
  <div align="center">
    Nesse projeto fiz acompanhando um curso da alura e algumas modificações minhas, um site tematico stranger things;
    <h1>Video do Projeto:</h1>
-   
     https://user-images.githubusercontent.com/39745201/193899635-5b91da98-1cbd-477b-941b-27312a3ed0fb.mp4
+   <br> 
+</div>
+
+ <div align="center">
+    <h1>Site do Projeto:</h1>
+    https://eduardofranco572.github.io/Mundo-Invertido-Stranger-Things/
+   <br>
+        
+</div>
+
+
+     <h1>Video do Projeto:</h1>
+    
+    https://eduardofranco572.github.io/Mundo-Invertido-Stranger-Things/
     
    <br>
-  
-</div>
 <br>
   Aqui são umas das linguagens de progamação que tenho conhecimento. e que utilizo para criar meus sites 💻
 <br>
