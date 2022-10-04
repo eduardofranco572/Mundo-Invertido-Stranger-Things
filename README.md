@@ -1,4 +1,3 @@
-
 # Tela Login
 Ola, Meu nome é Eduardo e esse foi mais um projeto para meu aprendizado de Font-End.
 <br>
@@ -16,13 +15,6 @@ Ola, Meu nome é Eduardo e esse foi mais um projeto para meu aprendizado de Font
    <br>
         
 </div>
-
-
-     <h1>Video do Projeto:</h1>
-    
-    https://eduardofranco572.github.io/Mundo-Invertido-Stranger-Things/
-    
-   <br>
 <br>
   Aqui são umas das linguagens de progamação que tenho conhecimento. e que utilizo para criar meus sites 💻
 <br>
