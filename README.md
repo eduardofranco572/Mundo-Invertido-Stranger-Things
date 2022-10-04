@@ -4,7 +4,7 @@ Ola, Meu nome é Eduardo e esse foi mais um projeto para meu aprendizado de Font
 <br>
 <br>
  <div align="center">
-   Nesse projeto fiz acompanhando um curso da alura e algumas modificações minhas, um site de compartilhamentos de vídeos tipo o Youtube;
+   Nesse projeto fiz acompanhando um curso da alura e algumas modificações minhas, um site tematico stranger things;
    <h1>Video do Projeto:</h1>
    
     https://user-images.githubusercontent.com/39745201/193899635-5b91da98-1cbd-477b-941b-27312a3ed0fb.mp4
